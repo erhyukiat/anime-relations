@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-10-11
+- last_modified: 2026-10-18
 
 ::rules
 
@@ -239,6 +239,9 @@
 
 # Chihayafuru 2 -> ~: Waga Mi Yo ni Furu Nagame Seshi Ma ni
 - 14397|7123|14397:26 -> 18745|7814|18745:1
+
+# Chitose-kun wa Ramune Bin no Naka -> ~ Part 2
+- 59517|49122|180082:14-24 -> 62484|50966|198727:1-11
 
 # Chobits -> ~ Recap
 - 59|40|59:27 -> 1311|1176|1311:1
